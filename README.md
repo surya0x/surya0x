@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @surya0x
 - 👀 I’m interested in Web3 
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me https://twitter.com/0xGustave
 
 <!---
